@@ -1,0 +1,3 @@
+pressure 7
+humidity 0.20
+temperature 70.9
