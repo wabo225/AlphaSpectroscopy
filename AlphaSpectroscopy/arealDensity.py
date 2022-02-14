@@ -10,7 +10,7 @@ def τ(P_torr, T, Φ):
     @param T: temperature in °C
     @param P_torr: pressure in torr
     @param Φ: humidity in %
-    @returns a function of linear distance in centimeters which represents the areal density.
+    @returns a function of linear distance in centimeters which represents the areal density in mg/cm^2.
     '''
     T = T + 273.15
     P = P_torr * 133.3224

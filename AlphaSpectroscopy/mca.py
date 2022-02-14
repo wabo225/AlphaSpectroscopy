@@ -83,7 +83,7 @@ def extract_data(filename: str) -> dict:
 if __name__ == "__main__":
     graph = True
     
-    filename = 'datafiles/spectrum626.Spe'
+    filename = 'datafiles/spectrum642.Spe'
     data = extract_data(filename)
     
     print('\n   From file :', filename, '\n')
@@ -97,3 +97,4 @@ if __name__ == "__main__":
     print('        FWHM :', data['FWHM'], '(Mev)')
 
     plt.plot(data['data'])
+    plt.show()
