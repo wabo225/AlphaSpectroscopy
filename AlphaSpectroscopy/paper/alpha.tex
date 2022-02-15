@@ -8,6 +8,8 @@
 \usepackage{float}
 \usepackage{hyperref}
 
+\usepackage[font=footnotesize]{caption}
+
 \newcommand{\po}{{}^{210}\text{Po}}
 
 \setlength{\columnsep}{1cm}
@@ -22,7 +24,7 @@
 \maketitle
 
 \begin{abstract}
-    \textit{The rate of energy loss of alpha particles through variable medium emitted by $\po$ is measured }
+    \textit{The energy of alpha particles emitted by $\po$ is measured using a silicon surface barrier detector. By increasing the density of air between the source and the detector, the effective range of 5.3 $\mega \electronvolt$ alpha particles and the energy dependence of the rate of energy loss can be measured.}
 \end{abstract}
 
 \begin{multicols}{2}
@@ -124,6 +126,7 @@
     \end{equation}
 
     \subsection{Centroid Repeatability}
+    \label{centroid}
     At this stage in the analysis, I was curious about the repeatability of finding the channel associated with peak energy. Duplicate spectra for a range of pressures were taken and the sample variance for two methods of isolating a peak were compared. Even if the method was systematically wrong, it could be valuable due to the nature of the calibration process. The method I settled on was to convolve a hamming window of width 15 through the spectra and calculate an `$\text{argmax}$.' This method reduced the sample standard deviation by a factor of 2 when compared to using the channel associated with the absolute maximum. From here onward, any channel should be quoted with having $\pm 1$ channel of uncertainty. We note that uncertainty in the peak channel increases with straggling at higher pressure, and that our peaks are broadened by air leaking into the tank. We should also note that the values of the first couple channels were thrown out. They would represents negative energy values according to our calibration and appeared as the absolute maximum before on the spectrum analyzer
 
     \subsection{Straggling calculation}
@@ -131,11 +134,19 @@
 
     \section{Results}
 
+    After collecting spectra from a range of pressures, we convert pressures to areal density, and the collected channel information into related energies. Peaks were found using the method presented in section \ref{centroid}.
+    \begin{figure}[H]
+        \includegraphics[width=0.45\textwidth]{charts/spectra.png}
+        \caption{A sample of $\alpha$ spectra collected from an MCA spectrum analyzer at different pressures}
+    \end{figure}
+    The energy of peaks is charted as a function of areal density, and extrapolated from the right to find the range of alpha particles. Note that at zero density, the peak energy detected lies at 5.3 $\mega \electronvolt$ as we would expect. The energy of particles is expected to be zero at $4.16 \pm 0.04 \centi \metre$, extrapolated from only the higher densities.
     \begin{figure}[H]
         \includegraphics[width=0.45\textwidth]{charts/Energy.png}
         \caption{Areal density v. Energy}
         \label{energy}
     \end{figure}
+
+    A numerical derivate of figure \ref{energy} using medians was performed to acquire $dE_p/d\tau$. The negative is taken to show the energy deposited to the environment and for the convention with the Bethe-Bloch equation \ref{bethebloch}. 
 
     \begin{figure}[H]
         \includegraphics[width=0.45\textwidth]{charts/EnergyLoss.png}
@@ -143,13 +154,29 @@
         \label{energyloss}
     \end{figure}
 
+    Though the theory works quite well at high alpha energy, the energy loss for the lower energy alphas are subject to greater standard error due to less particles reaching the detector. This is illustrated well on a graph of counts per second against density.
+
+    \begin{figure}[H]
+        \includegraphics[width=0.45\textwidth]{charts/R.png}
+        \caption{As the pressure increases, less alpha particles are able to reach the detector.}
+        \label{R}
+    \end{figure}
+
+    As particles are subject to greater density absorbers, their energy decreases. At low enough energies, ionization of the absorber begins to effect the trajectory of particles more and more. The total counts per second chart indicates that some or nearly all particles passing through absorbers of areal density from 3.5 to 4 $\milli \gram \per \centi \metre^2$ are stopped before reaching the detector. In a future experiment, the distance between the detector and the source should be reduced from $4\centi \metre$ to $3.5 \centi \metre$.
+
+    Particle straggling occurs when the trajectory of particles affected enough to cause alpha particles to travel longer distances through the medium before reaching the detector. These particles that have traveled less direct routes will land on the detector with lower energy and give a more uniformly distributed spectrum. A metric for this effect can be found in the full width at half max of the peak of the spectrum. 
+    
     \begin{figure}[H]
         \includegraphics[width=0.45\textwidth]{charts/FWHM.png}
         \caption{Particle Straggling}
         \label{fwhm}
     \end{figure}
+    We assert that the principle of straggling is consistent with the upward slope with respect to density. Noting that the energy loss increases more quickly for low energy particles, high energy particles should be able to blast through a low density absorber without being deflected. At a certain turning point, around 1 MeV, the particles will appear to suddenly start taking significantly longer tours, onsetting near the detector. The right side of the FWHM chart shows a decrease again at $\tau = 4 \milli \gram \per \centi \metre^2$. This can be explained with the notion that the FWHM at that point is also a measure of the maximum particle energy, as the peak of the spectrum will contain both 0 and the highest incident particle. The highest likely incident particle in this case may have very low energy, and in our case lies at 0.1 MeV.
 
     \section{Conclusion}
+
+    \section{Appendix}
+    Because of the nature of the data in this experiment, I was afforded the opportunity to create something I would consider very special
 
     \bibliographystyle{plain}
     \bibliography{refs.bib}

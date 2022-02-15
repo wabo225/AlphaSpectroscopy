@@ -80,10 +80,8 @@ def extract_data(filename: str) -> dict:
         'R': np.sum(data)/int(meas_live) # counts per second
     }
 
-if __name__ == "__main__":
-    graph = True
-    
-    filename = 'datafiles/spectrum642.Spe'
+if __name__ == "__main__":    
+    filename = 'datafiles/spectrum7.Spe'
     data = extract_data(filename)
     
     print('\n   From file :', filename, '\n')
@@ -96,5 +94,8 @@ if __name__ == "__main__":
     print(' Peak Energy :', data['E_p'], '(Mev)')
     print('        FWHM :', data['FWHM'], '(Mev)')
 
-    plt.plot(data['data'])
+    plt.style.use('ieee')
+    ch = np.arange(len(data['data']))
+    plt.plot(cal.E(ch), data['data']/data['meas_live'], '-')
+    plt.fill_between(cal.E(ch), data['data']/data['meas_live'], alpha=0.5)
     plt.show()

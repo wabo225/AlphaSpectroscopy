@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.14)  14 FEB 2022 14:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.14)  14 FEB 2022 23:19
 entering extended mode
 **c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex
 (c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex
@@ -323,31 +323,48 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip55
+) (C:\Users\wabod\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\wabod\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen171
+\captionmargin@=\dimen172
+\captionwidth=\dimen173
+\caption@tempdima=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count310
+\c@continuedfloat=\count311
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count310
+\l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box100
 ) (alpha.aux)
 \openout1 = `alpha.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -385,16 +402,16 @@ LaTeX Font Info:    ... okay on input line 20.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count311
-\scratchdimen=\dimen171
+\scratchcounter=\count313
+\scratchdimen=\dimen178
 \scratchbox=\box101
-\nofMPsegments=\count312
-\nofMParguments=\count313
+\nofMPsegments=\count314
+\nofMParguments=\count315
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count314
-\MPscratchDim=\dimen172
-\MPnumerator=\count315
-\makeMPintoPDFobject=\count316
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen179
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
 \everyMPtoPDFconversion=\toks26
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -402,7 +419,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 22.
  (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\wabod\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
@@ -410,45 +427,63 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\wabod\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count317
+\c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
  (alpha.out) (alpha.out)
 \@outlinefile=\write3
 \openout3 = `alpha.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
  [1
 
 {C:/Users/wabod/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-<charts/sample_bq.png, id=84, 220.9053pt x 147.06944pt>
+<charts/sample_bq.png, id=88, 220.9053pt x 147.06944pt>
 File: charts/sample_bq.png Graphic file (type png)
 <use charts/sample_bq.png>
-Package pdftex.def Info: charts/sample_bq.png  used on input line 108.
+Package pdftex.def Info: charts/sample_bq.png  used on input line 110.
 (pdftex.def)             Requested size: 224.39664pt x 149.40291pt.
-<charts/calibration.png, id=86, 233.55255pt x 177.7842pt>
+<charts/calibration.png, id=90, 233.55255pt x 177.7842pt>
 File: charts/calibration.png Graphic file (type png)
 <use charts/calibration.png>
-Package pdftex.def Info: charts/calibration.png  used on input line 116.
+Package pdftex.def Info: charts/calibration.png  used on input line 118.
 (pdftex.def)             Requested size: 233.55197pt x 177.78374pt.
- [3 <./charts/sample_bq.png> <./charts/calibration.png>]
-<charts/Energy.png, id=102, 224.7597pt x 179.9523pt>
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 131.
+
+[3 <./charts/sample_bq.png> <./charts/calibration.png>]
+<charts/spectra.png, id=107, 228.1323pt x 172.2435pt>
+File: charts/spectra.png Graphic file (type png)
+<use charts/spectra.png>
+Package pdftex.def Info: charts/spectra.png  used on input line 139.
+(pdftex.def)             Requested size: 224.39664pt x 169.42561pt.
+<charts/Energy.png, id=108, 224.7597pt x 179.9523pt>
 File: charts/Energy.png Graphic file (type png)
 <use charts/Energy.png>
-Package pdftex.def Info: charts/Energy.png  used on input line 135.
+Package pdftex.def Info: charts/Energy.png  used on input line 144.
 (pdftex.def)             Requested size: 224.39664pt x 179.66628pt.
-<charts/EnergyLoss.png, id=103, 234.1548pt x 179.2296pt>
+<charts/EnergyLoss.png, id=111, 234.1548pt x 179.2296pt>
 File: charts/EnergyLoss.png Graphic file (type png)
 <use charts/EnergyLoss.png>
-Package pdftex.def Info: charts/EnergyLoss.png  used on input line 141.
+Package pdftex.def Info: charts/EnergyLoss.png  used on input line 152.
 (pdftex.def)             Requested size: 224.39664pt x 171.76854pt.
-<charts/FWHM.png, id=104, 231.9867pt x 179.9523pt>
+ [4 <./charts/spectra.png> <./charts/Energy.png>]
+<charts/R.png, id=121, 225.84375pt x 173.80936pt>
+File: charts/R.png Graphic file (type png)
+<use charts/R.png>
+Package pdftex.def Info: charts/R.png  used on input line 160.
+(pdftex.def)             Requested size: 224.39664pt x 172.70563pt.
+<charts/FWHM.png, id=122, 228.1323pt x 173.80936pt>
 File: charts/FWHM.png Graphic file (type png)
 <use charts/FWHM.png>
-Package pdftex.def Info: charts/FWHM.png  used on input line 147.
-(pdftex.def)             Requested size: 224.39664pt x 174.06474pt.
- (alpha.bbl
+Package pdftex.def Info: charts/FWHM.png  used on input line 170.
+(pdftex.def)             Requested size: 224.39664pt x 170.96584pt.
+ [5 <./charts/EnergyLoss.png> <./charts/R.png> <./charts/FWHM.png>] (alpha.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 []\OT1/cmr/m/n/12 Brookhaven Na-tional Lab-o-ra-tory.
  []
@@ -463,7 +498,7 @@ Overfull \hbox (8.24811pt too wide) in paragraph at lines 4--7
 \OT1/cmr/m/n/12 https://www.bnl.gov/nsrl/userguide/bragg-
  []
 
-[4 <./charts/Energy.png> <./charts/EnergyLoss.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 14--17
 []\OT1/cmr/m/n/12 Nuclear Data Cen-ter at KAERI.
  []
@@ -478,22 +513,22 @@ Overfull \hbox (4.8537pt too wide) in paragraph at lines 14--17
 \OT1/cmr/m/n/12 https://atom.kaeri.re.kr/nuchart/?zlv=1#. 
  []
 
-) [5 <./charts/FWHM.png>] (alpha.aux)
+) [6] (alpha.aux)
 Package rerunfilecheck Info: File `alpha.out' has not changed.
-(rerunfilecheck)             Checksum: ED20C438BF709595DDCB3CFB45444B13;968.
+(rerunfilecheck)             Checksum: 621B27E9FFAD689F8FC166234C66A244;1051.
  ) 
 Here is how much of TeX's memory you used:
- 9875 strings out of 478907
- 144898 string characters out of 2861748
- 475949 words of memory out of 3000000
- 27573 multiletter control sequences out of 15000+600000
+ 11100 strings out of 478907
+ 168861 string characters out of 2861748
+ 498256 words of memory out of 3000000
+ 28786 multiletter control sequences out of 15000+600000
  415393 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,1196b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on alpha.pdf (5 pages, 347279 bytes).
+ 60i,11n,66p,1196b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on alpha.pdf (6 pages, 630981 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

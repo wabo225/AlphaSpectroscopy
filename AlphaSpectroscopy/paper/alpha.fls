@@ -493,6 +493,29 @@ INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecoun
 INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\wabod\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -630,6 +653,13 @@ INPUT .\charts\calibration.png
 INPUT .\charts\calibration.png
 INPUT .\charts\calibration.png
 INPUT .\charts\calibration.png
+INPUT .\charts\spectra.png
+INPUT .\charts\spectra.png
+INPUT charts\spectra.png
+INPUT .\charts\spectra.png
+INPUT .\charts\spectra.png
+INPUT .\charts\spectra.png
+INPUT .\charts\spectra.png
 INPUT .\charts\Energy.png
 INPUT .\charts\Energy.png
 INPUT charts\Energy.png
@@ -644,6 +674,13 @@ INPUT .\charts\EnergyLoss.png
 INPUT .\charts\EnergyLoss.png
 INPUT .\charts\EnergyLoss.png
 INPUT .\charts\EnergyLoss.png
+INPUT .\charts\R.png
+INPUT .\charts\R.png
+INPUT charts\R.png
+INPUT .\charts\R.png
+INPUT .\charts\R.png
+INPUT .\charts\R.png
+INPUT .\charts\R.png
 INPUT .\charts\FWHM.png
 INPUT .\charts\FWHM.png
 INPUT charts\FWHM.png
@@ -666,6 +703,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
