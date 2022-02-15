@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex alpha"] 1644898758 "alpha.aux" "alpha.bbl" "alpha" 1644898763
+["bibtex alpha"] 1644900162 "alpha.aux" "alpha.bbl" "alpha" 1644900335
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "alpha.aux" 1644898763 4533 b5cf552fe1c6dc098755ef73325d539f "pdflatex"
+  "alpha.aux" 1644900325 4533 55d062865b1e1f357abec74586107bca "pdflatex"
   "refs.bib" 1643611303 795 d6d697c6349d8fddb813439f6ba61ace ""
   (generated)
   "alpha.bbl"
   "alpha.blg"
-["pdflatex"] 1644898759 "c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex" "alpha.pdf" "alpha" 1644898763
+["pdflatex"] 1644900321 "c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex" "alpha.pdf" "alpha" 1644900335
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993058908 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -112,11 +112,11 @@
   "C:/Users/wabod/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/wabod/AppData/Roaming/MiKTeX/tex/latex/siunits/SIunits.cfg" 1197193147 1377 e1c35ec7ca1a5a17ac67ecbdabb6990b ""
   "C:/Users/wabod/AppData/Roaming/MiKTeX/tex/latex/siunits/SIunits.sty" 1197193147 24895 d4b7c746aadbeeadad3d915d486cc1b1 ""
-  "alpha.aux" 1644898763 4533 b5cf552fe1c6dc098755ef73325d539f "pdflatex"
-  "alpha.bbl" 1644898759 622 5795ee1bdb261b0b66e0c6f04fbd4bef "bibtex alpha"
-  "alpha.out" 1644898763 1051 621b27e9ffad689f8fc166234c66a244 "pdflatex"
-  "alpha.tex" 1644898754 16289 e9494bd0ef0259bc8f4ebf7f18a651d4 ""
-  "c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex" 1644898754 16289 e9494bd0ef0259bc8f4ebf7f18a651d4 ""
+  "alpha.aux" 1644900325 4533 55d062865b1e1f357abec74586107bca "pdflatex"
+  "alpha.bbl" 1644900162 622 5795ee1bdb261b0b66e0c6f04fbd4bef "bibtex alpha"
+  "alpha.out" 1644900325 1051 621b27e9ffad689f8fc166234c66a244 "pdflatex"
+  "alpha.tex" 1644900334 17371 59395d62db27b0970c51ef85894eb422 ""
+  "c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex" 1644900334 17371 59395d62db27b0970c51ef85894eb422 ""
   "charts/Energy.png" 1644858948 8849 41acb5ec3ebc69e9e4f5aa7e286d3b50 ""
   "charts/EnergyLoss.png" 1644866505 12619 77be53596fa0b2c2aff6b27c5f7300a4 ""
   "charts/FWHM.png" 1644880823 66692 751c2a043488e4e97ec05add7112cebd ""

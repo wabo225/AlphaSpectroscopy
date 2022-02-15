@@ -1,5 +1,5 @@
 \documentclass[12pt]{article}
-\usepackage[margin=0.8in]{geometry}
+\usepackage[margin=0.7in]{geometry}
 \usepackage{blindtext}
 \usepackage{multicol}
 \usepackage{amsmath}
@@ -139,7 +139,7 @@
         \includegraphics[width=0.45\textwidth]{charts/spectra.png}
         \caption{A sample of $\alpha$ spectra collected from an MCA spectrum analyzer at different pressures}
     \end{figure}
-    The energy of peaks is charted as a function of areal density, and extrapolated from the right to find the range of alpha particles. Note that at zero density, the peak energy detected lies at 5.3 $\mega \electronvolt$ as we would expect. The energy of particles is expected to be zero at $4.16 \pm 0.04 \centi \metre$, extrapolated from only the higher densities.
+    The energy of peaks is charted as a function of areal density, and extrapolated from the right to find the range of alpha particles. Note that at zero density, the peak energy detected lies at 5.3 $\mega \electronvolt$ as we would expect. The energy of particles is expected to be zero at $4.16 \pm 0.04 \milli\gram\per\centi \metre^2$, extrapolated from only the higher densities.
     \begin{figure}[H]
         \includegraphics[width=0.45\textwidth]{charts/Energy.png}
         \caption{Areal density v. Energy}
@@ -171,12 +171,16 @@
         \caption{Particle Straggling}
         \label{fwhm}
     \end{figure}
-    We assert that the principle of straggling is consistent with the upward slope with respect to density. Noting that the energy loss increases more quickly for low energy particles, high energy particles should be able to blast through a low density absorber without being deflected. At a certain turning point, around 1 MeV, the particles will appear to suddenly start taking significantly longer tours, onsetting near the detector. The right side of the FWHM chart shows a decrease again at $\tau = 4 \milli \gram \per \centi \metre^2$. This can be explained with the notion that the FWHM at that point is also a measure of the maximum particle energy, as the peak of the spectrum will contain both 0 and the highest incident particle. The highest likely incident particle in this case may have very low energy, and in our case lies at 0.1 MeV.
+    
+    We assert that the principle of straggling is consistent with the upward slope with respect to density. Noting that the energy loss is greater for low energy particles, high energy particles should be able to blast through a low density absorber without being deflected. At a certain turning point, around 1 MeV, the particles will appear to suddenly start taking significantly longer tours, onsetting near the detector. The right side of the FWHM chart shows a decrease again at $\tau = 4 \milli \gram \per \centi \metre^2$. This can be explained with the notion that the FWHM at that point is also a measure of the maximum particle energy, as the peak of the spectrum will contain both 0 and the highest incident particle. The highest likely incident particle in this case may have very low energy, and in our case lies at 0.1 MeV.
 
     \section{Conclusion}
+    In summation, the radioactivity of our $\po$ sample was found to be $0.1085 \pm 0.0018 \micro\curie$, the range of $5.3 \mega \electronvolt$ alpha particles was found to be $4.16 \pm 0.04 \centi \metre$, and the rate of energy loss is described well by the Bethe-Bloch equation. These quantities and relationships can be reused in other contexts to determine the penetration of alpha particles through other materials. For example, the areal density of a piece of paper is large enough to stop an alpha particle.
+
+
 
     \section{Appendix}
-    Because of the nature of the data in this experiment, I was afforded the opportunity to create something I would consider very special
+    Because of the nature of the data in this experiment, I was afforded the opportunity to create something very special. I wrote a sizeable amount of code capable of automating the process of turning a folder of datafiles directly into charts, tables, and results. Some of the code is very reusable, such as the `$\text{mca.py}$' file which parses a single MCA spectrum into those quantities referenced throughout the paper. All the code can be found on my \href{https://github.com/wabo225/AlphaSpectroscopy/tree/master/AlphaSpectroscopy}{github linked here.} The repository also contains a history of every change made to the code and the data itself (of course there should be none).
 
     \bibliographystyle{plain}
     \bibliography{refs.bib}

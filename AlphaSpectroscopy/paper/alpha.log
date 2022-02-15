@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.14)  14 FEB 2022 23:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.14)  14 FEB 2022 23:45
 entering extended mode
 **c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex
 (c:/Users/wabod/Documents/Spring22/PHY535/AlphaSpectroscopy/paper/alpha.tex
@@ -374,15 +374,15 @@ LaTeX Font Info:    ... okay on input line 22.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
-* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
+* h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
+* v-part:(T,H,B)=(50.58878pt, 693.79243pt, 50.58878pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=498.66258pt
-* \textheight=679.33757pt
-* \oddsidemargin=-14.45378pt
-* \evensidemargin=-14.45378pt
-* \topmargin=-51.45378pt
+* \textwidth=513.11745pt
+* \textheight=693.79243pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
+* \topmargin=-58.68121pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -440,12 +440,17 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  [1
 
-{C:/Users/wabod/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+{C:/Users/wabod/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 105.
+
+[2]
 <charts/sample_bq.png, id=88, 220.9053pt x 147.06944pt>
 File: charts/sample_bq.png Graphic file (type png)
 <use charts/sample_bq.png>
 Package pdftex.def Info: charts/sample_bq.png  used on input line 110.
-(pdftex.def)             Requested size: 224.39664pt x 149.40291pt.
+(pdftex.def)             Requested size: 230.90128pt x 153.73402pt.
 <charts/calibration.png, id=90, 233.55255pt x 177.7842pt>
 File: charts/calibration.png Graphic file (type png)
 <use charts/calibration.png>
@@ -457,32 +462,32 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 3 might be wrong on input line 131.
 
 [3 <./charts/sample_bq.png> <./charts/calibration.png>]
-<charts/spectra.png, id=107, 228.1323pt x 172.2435pt>
+<charts/spectra.png, id=108, 228.1323pt x 172.2435pt>
 File: charts/spectra.png Graphic file (type png)
 <use charts/spectra.png>
 Package pdftex.def Info: charts/spectra.png  used on input line 139.
-(pdftex.def)             Requested size: 224.39664pt x 169.42561pt.
-<charts/Energy.png, id=108, 224.7597pt x 179.9523pt>
+(pdftex.def)             Requested size: 230.90128pt x 174.33775pt.
+<charts/Energy.png, id=109, 224.7597pt x 179.9523pt>
 File: charts/Energy.png Graphic file (type png)
 <use charts/Energy.png>
 Package pdftex.def Info: charts/Energy.png  used on input line 144.
-(pdftex.def)             Requested size: 224.39664pt x 179.66628pt.
-<charts/EnergyLoss.png, id=111, 234.1548pt x 179.2296pt>
+(pdftex.def)             Requested size: 230.90128pt x 184.87514pt.
+<charts/EnergyLoss.png, id=112, 234.1548pt x 179.2296pt>
 File: charts/EnergyLoss.png Graphic file (type png)
 <use charts/EnergyLoss.png>
 Package pdftex.def Info: charts/EnergyLoss.png  used on input line 152.
-(pdftex.def)             Requested size: 224.39664pt x 171.76854pt.
+(pdftex.def)             Requested size: 230.90128pt x 176.74866pt.
  [4 <./charts/spectra.png> <./charts/Energy.png>]
 <charts/R.png, id=121, 225.84375pt x 173.80936pt>
 File: charts/R.png Graphic file (type png)
 <use charts/R.png>
 Package pdftex.def Info: charts/R.png  used on input line 160.
-(pdftex.def)             Requested size: 224.39664pt x 172.70563pt.
+(pdftex.def)             Requested size: 230.90128pt x 177.71281pt.
 <charts/FWHM.png, id=122, 228.1323pt x 173.80936pt>
 File: charts/FWHM.png Graphic file (type png)
 <use charts/FWHM.png>
 Package pdftex.def Info: charts/FWHM.png  used on input line 170.
-(pdftex.def)             Requested size: 224.39664pt x 170.96584pt.
+(pdftex.def)             Requested size: 230.90128pt x 175.92264pt.
  [5 <./charts/EnergyLoss.png> <./charts/R.png> <./charts/FWHM.png>] (alpha.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 []\OT1/cmr/m/n/12 Brookhaven Na-tional Lab-o-ra-tory.
@@ -494,7 +499,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
  []
 
 
-Overfull \hbox (8.24811pt too wide) in paragraph at lines 4--7
+Overfull \hbox (1.02068pt too wide) in paragraph at lines 4--7
 \OT1/cmr/m/n/12 https://www.bnl.gov/nsrl/userguide/bragg-
  []
 
@@ -508,11 +513,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 \OT1/cmr/m/n/12 Ta-ble of nu-clides, 2015.
  []
 
-
-Overfull \hbox (4.8537pt too wide) in paragraph at lines 14--17
-\OT1/cmr/m/n/12 https://atom.kaeri.re.kr/nuchart/?zlv=1#. 
- []
-
 ) [6] (alpha.aux)
 Package rerunfilecheck Info: File `alpha.out' has not changed.
 (rerunfilecheck)             Checksum: 621B27E9FFAD689F8FC166234C66A244;1051.
@@ -520,15 +520,15 @@ Package rerunfilecheck Info: File `alpha.out' has not changed.
 Here is how much of TeX's memory you used:
  11100 strings out of 478907
  168861 string characters out of 2861748
- 498256 words of memory out of 3000000
+ 499256 words of memory out of 3000000
  28786 multiletter control sequences out of 15000+600000
  415393 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,1196b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,66p,1196b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/wabod/AppData/Roaming/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on alpha.pdf (6 pages, 630981 bytes).
+Output written on alpha.pdf (6 pages, 632268 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
+ 223 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
  108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
